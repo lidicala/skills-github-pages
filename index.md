@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+theme: minima
+title: Zelda - Hestu maracas/music
+author: Lidi
+description: This is a small embedded systems project I made using Arduino. It plays Hestu’s maracas music from The Legend of Zelda and uses a sound sensor to trigger red LEDs inside handmade maracas, just like in the game. Everything is built into a box, with a custom Hestu figure I sculpted in polymer clay.
 ---
 
